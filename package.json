@@ -1,0 +1,19 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "用于学习node服务器开发的项目",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "学习",
+    "服务器"
+  ],
+  "author": "my",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
